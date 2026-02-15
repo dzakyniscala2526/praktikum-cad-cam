@@ -1,39 +1,52 @@
-<h1 align="center">CAD CAM Practicum</h1>
+<div align="center">
 
-<p align="center">
-Computer Aided Design & Manufacturing Project Repository
-</p>
+# ⚙️ PRAKTIKUM CAD CAM
 
----
+### Computer Aided Design & Manufacturing Project Repository
 
-## Overview
-
-Repository ini berisi hasil praktikum CAD CAM meliputi proses perancangan komponen teknik menggunakan software CAD serta dokumentasi pembelajaran selama perkuliahan.
+<img src="https://img.shields.io/badge/COURSE-CAD_CAM-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/SOFTWARE-SolidWorks-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/STATUS-Completed-success?style=for-the-badge">
 
 ---
 
-## Student Information
+Repository dokumentasi dan pengumpulan tugas praktikum CAD CAM  
+berisi file desain, laporan, dan hasil modeling komponen teknik.
 
-| Field | Information |
+</div>
+
+---
+
+# 👨‍🎓 Profil Mahasiswa
+
+| Informasi | Detail |
 |---|---|
-| Name | [Nama Lengkap] |
-| Student ID | [NIM] |
-| Course | CAD CAM |
-| Program | Teknik [Jurusan] |
-| Lecturer | [Nama Dosen] |
+| 👤 Nama | **[Nama Lengkap]** |
+| 🆔 NIM | **[NIM]** |
+| 🏫 Program Studi | **Teknik [Jurusan]** |
+| 🎓 Mata Kuliah | **CAD CAM** |
+| 👨‍🏫 Dosen Pengampu | **[Nama Dosen]** |
 
 ---
 
-## Project Contents
+# 📌 Tentang Project
 
-- 3D component modeling
-- SolidWorks design files (.SLDPRT)
-- Practicum reports
-- Design documentation
+Praktikum ini bertujuan untuk memahami proses perancangan komponen teknik menggunakan teknologi **Computer Aided Design (CAD)** dan implementasinya dalam proses manufaktur.
+
+Repository ini berisi:
+
+- 📐 Modeling komponen 3D
+- 🧩 File desain SolidWorks (.SLDPRT)
+- 📄 Laporan praktikum
+- 🖼 Dokumentasi hasil desain
 
 ---
 
-## Repository Structure
+# 🖼 Preview Hasil Desain
+
+> (Upload gambar desain lu di folder JPG lalu ganti link di bawah)
+
+
 
 
 
