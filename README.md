@@ -20,7 +20,7 @@ Repository Pengumpulan Tugas Praktikum CAD CAM
 | NIM | 40040325650089 |
 | Kelas | D |
 | Mata Kuliah | CAD CAM |
-| Dosen Pengampu | - *Megarini Hersaputri, S.T., M.T. *Rofiq Cahyo Prayogo, S.T., M.T.* |
+| Dosen Pengampu | - *Megarini Hersaputri, S.T., M.T. |
 
 ---
 
