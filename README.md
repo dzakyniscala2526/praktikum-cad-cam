@@ -52,15 +52,59 @@ Repository ini berisi:
 
 # 📂 Struktur Repository
 
-📦 praktikum-cad-cam
-┣ 📁 JPG
-┃ ┣ hasil-desain-1.png
-┃ ┗ hasil-desain-2.png
-┣ 📄 Laporan Praktikum.pdf
-┣ 📄 Bagian A.SLDPRT
-┣ 📄 Bagian B.SLDPRT
-┣ 📄 Bagian C.SLDPRT
-┗ 📄 README.md
+
+---
+
+# 🎯 Tujuan Praktikum
+
+- Memahami konsep Computer Aided Design
+- Mendesain komponen menggunakan SolidWorks
+- Meningkatkan kemampuan modeling 3D
+- Mempelajari workflow CAD ke CAM
+
+---
+
+# 🛠 Technology Stack
+
+| Software | Fungsi |
+|---|---|
+| SolidWorks | Modeling 3D |
+| GitHub | Version control & repository |
+| Windows | Operating system |
+
+---
+
+# 🚀 Cara Menggunakan Project
+
+1. Download file `.SLDPRT`
+2. Buka menggunakan SolidWorks
+3. Analisis atau modifikasi desain
+
+---
+
+# 📈 Learning Outcome
+
+✔ Memahami proses desain teknik  
+✔ Menguasai dasar modeling CAD  
+✔ Dokumentasi project engineering  
+✔ Workflow digital manufacturing  
+
+---
+
+# ✨ Author
+
+<div align="center">
+
+### **Dzaky Niscala Pragata**
+Mahasiswa Teknologi Rekayasa Otomasi  
+Universitas Diponegoro
+
+---
+
+⭐ Jika repository ini membantu, silakan beri star.
+
+</div>
+
 
 
 
