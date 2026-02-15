@@ -44,9 +44,8 @@ Repository ini berisi:
 
 # 🖼 Preview Hasil Desain
 
-> (Upload gambar desain lu di folder JPG lalu ganti link di bawah)
-
-
+**YouTube:**  
+[![Praktikum CAD CAM](https://i9.ytimg.com/vi/NNUcLcrw7GI/maxresdefault.jpg?v=6991dc82&sqp=CPC-x8wG&rs=AOn4CLCLlMvgwN28XXmyFlt29KMX1Ca07g)](https://youtu.be/NNUcLcrw7GI)
 
 
 
