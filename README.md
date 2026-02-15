@@ -21,11 +21,11 @@ berisi file desain, laporan, dan hasil modeling komponen teknik.
 
 | Informasi | Detail |
 |---|---|
-| 👤 Nama | **[Nama Lengkap]** |
-| 🆔 NIM | **[NIM]** |
-| 🏫 Program Studi | **Teknik [Jurusan]** |
+| 👤 Nama | **Dzaky Niscala Pragata** |
+| 🆔 NIM | **40040325650089** |
+| 🏫 Program Studi | **Teknologi Rekayasa Otomasi** |
 | 🎓 Mata Kuliah | **CAD CAM** |
-| 👨‍🏫 Dosen Pengampu | **[Nama Dosen]** |
+| 👨‍🏫 Dosen Pengampu | **Megarini Hersaputri, S.T., M.T & Rofiq Cahyo Prayogo, S.T., M.T** |
 
 ---
 
