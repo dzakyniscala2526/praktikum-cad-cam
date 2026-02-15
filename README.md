@@ -4,8 +4,8 @@ laporan praktikum CAD CAM
 ---
 
 ## Identitas Mahasiswa
-- **Nama:** Reinhart Barus  
-- **NIM:** 40040325650081  
+- **Nama:** Dzaky Niscala Pragata 
+- **NIM:** 40040325650089
 - **Program Studi:** S.Tr. Teknologi Rekayasa Otomasi  
 - **Departemen:** Teknologi Industri  
 - Sekolah Vokasi  
