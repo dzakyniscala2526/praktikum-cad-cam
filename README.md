@@ -51,6 +51,15 @@ Repository ini berisi:
 ---
 
 # 📂 Struktur Repository
+📦 praktikum-cad-cam
+┣ 📁 JPG
+┃ ┣ hasil-desain-1.png
+┃ ┗ hasil-desain-2.png
+┣ 📄 Laporan Praktikum.pdf
+┣ 📄 Bagian A.SLDPRT
+┣ 📄 Bagian B.SLDPRT
+┣ 📄 Bagian C.SLDPRT
+┗ 📄 README.md
 
 
 
