@@ -1,50 +1,40 @@
-<div align="center">
+<h1 align="center">CAD CAM Practicum</h1>
 
-# 🚀 PRAKTIKUM CAD CAM
-
-Repository Pengumpulan Tugas Praktikum CAD CAM
-
-![SolidWorks](https://img.shields.io/badge/Software-SolidWorks-red)
-![Status](https://img.shields.io/badge/Status-Active-success)
-![Course](https://img.shields.io/badge/Course-CAD%20CAM-blue)
-
-</div>
+<p align="center">
+Computer Aided Design & Manufacturing Project Repository
+</p>
 
 ---
 
-## 👤 Informasi Mahasiswa
+## Overview
 
-| Data | Keterangan |
+Repository ini berisi hasil praktikum CAD CAM meliputi proses perancangan komponen teknik menggunakan software CAD serta dokumentasi pembelajaran selama perkuliahan.
+
+---
+
+## Student Information
+
+| Field | Information |
 |---|---|
-| Nama | Dzaky Niscala Pragata |
-| NIM | 40040325650089 |
-| Kelas | D |
-| Mata Kuliah | CAD CAM |
-| Dosen Pengampu | Megarini Hersaputri, S.T., M.T. |
+| Name | [Nama Lengkap] |
+| Student ID | [NIM] |
+| Course | CAD CAM |
+| Program | Teknik [Jurusan] |
+| Lecturer | [Nama Dosen] |
 
 ---
 
-## 📖 Deskripsi Project
+## Project Contents
 
-Repository ini berisi seluruh hasil praktikum CAD CAM meliputi:
-
-✅ Desain komponen menggunakan SolidWorks  
-✅ File hasil modeling (.SLDPRT)  
-✅ Laporan praktikum  
-✅ Dokumentasi hasil pengerjaan  
-
-Repository dibuat sebagai media pengumpulan tugas dan dokumentasi pembelajaran.
+- 3D component modeling
+- SolidWorks design files (.SLDPRT)
+- Practicum reports
+- Design documentation
 
 ---
 
-## 📂 Struktur Repository
+## Repository Structure
 
 
-
-<div align="center">
-
-⭐ Terima kasih telah mengunjungi repository ini
-
-</div>
 
 
