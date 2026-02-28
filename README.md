@@ -45,7 +45,7 @@ Repository ini berisi:
 # 🖼 Preview Hasil Desain
 
 **YouTube:**  
-[![Praktikum CAD CAM](https://i9.ytimg.com/vi/NNUcLcrw7GI/maxresdefault.jpg?v=6991dc82&sqp=CPC-x8wG&rs=AOn4CLCLlMvgwN28XXmyFlt29KMX1Ca07g)](https://youtu.be/NNUcLcrw7GI)
+[![Praktikum CAD CAM](https://i9.ytimg.com/vi_webp/AZu6UTGVKhw/maxresdefault.webp?v=699963c2&sqp=CNS-is0G&rs=AOn4CLC2x0wvaQ7qqcufepLamtXuCry38A)](https://youtu.be/AZu6UTGVKhw)
 
 
 ---
